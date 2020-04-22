@@ -1,0 +1,23 @@
+{
+  "name": "dp",
+  "version": "0.0.1",
+  "description": "Dev Protocol CLI Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narita1980/dp.git"
+  },
+  "keywords": [
+    "Dev",
+    "Protocol"
+  ],
+  "author": "narita1980",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/narita1980/dp/issues"
+  },
+  "homepage": "https://github.com/narita1980/dp#readme"
+}
