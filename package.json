@@ -1,9 +1,9 @@
 {
   "name": "@narita1980/dp",
-  "publishConfig":{
+  "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dev Protocol CLI Tool",
   "bin": {
     "dp": "bin/dp.js"
@@ -16,13 +16,18 @@
     "url": "git+https://github.com/narita1980/dp.git"
   },
   "keywords": [
-    "Dev",
-    "Protocol"
+    "DevProtocol",
+    "devprtcl",
+    "cli"
   ],
   "author": "narita1980",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/narita1980/dp/issues"
   },
-  "homepage": "https://github.com/narita1980/dp#readme"
+  "homepage": "https://github.com/narita1980/dp#readme",
+  "type": "module",
+  "devDependencies": {
+    "@devprtcl/dev-kit-js": "^0.5.0"
+  }
 }
